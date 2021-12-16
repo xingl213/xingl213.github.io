@@ -4,4 +4,4 @@ This is a portfolio of mine that lists some of my most recent work -- which mean
 
 You are welcomed to visit it online [here](https://xingl213.github.io)
 
-Designed by https://html5up.net/. I did a bit of refactoring with the source code. See `LICENSE.txt` for more legal information
+The website was by [HTML5 UP](https://html5up.net/). I did a bit of refactoring with the source code. See `LICENSE.txt` for more legal information
